@@ -69,7 +69,7 @@ export const projectsData = [
   {
     title: "CII Energy",
     description:
-      "Led the design and development of the CII Energy website, collaborating closely with the project manager to ensure a cohesive and visually appealing online presence to effectively represent CII Energy's objectives.",
+      "Led the design and development of the CII Energy website, collaborating with the project manager to create a cohesive and visually appealing online presence that reflects CII Energy's objectives.",
       tags: ["JavaScript", "HTML", "CSS", "Bootsrap"],
     imageUrl: ciienergy,
   },
