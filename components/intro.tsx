@@ -32,7 +32,7 @@ export default function Intro() {
           >
             <Image
               src="https://instagram.fblr1-7.fna.fbcdn.net/v/t51.29350-15/256899502_267651761985055_5726194460789229995_n.webp?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fblr1-7.fna.fbcdn.net&_nc_cat=107&_nc_ohc=ER3vsK6e4-oQ7kNvgEdWVwt&_nc_gid=c083584b14b14accbdf71db9ab6cfdfc&edm=APoiHPcBAAAA&ccb=7-5&ig_cache_key=MjcwNjc1MDM0MTQzMDQ3NTMzMA%3D%3D.3-ccb7-5&oh=00_AYBZ1a3qp_7aDvq1UiQ9ddq4yZ2tfV5FWXKixk4R18VHEQ&oe=6718A300&_nc_sid=22de04"
-              alt="Ricardo portrait"
+              alt="Adnan img"
               width="192"
               height="192"
               quality="95"
@@ -64,9 +64,9 @@ export default function Intro() {
       >
         <span className="font-bold">Hello, I'm Adnan.</span> I'm a{" "}
         <span className="font-bold">frontend developer</span> with{" "}
-        <span className="font-bold">3+ years</span> of experience. I enjoy
+        <span className="font-bold">3.4 years</span> of experience. I enjoy
         building <span className="italic">sites and apps</span>. My focus is{" "}
-        <span className="underline">React (Next.js)</span>.
+        <span className="underline">React and Next.js</span>.
       </motion.h1>
 
       <motion.div
