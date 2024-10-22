@@ -9,6 +9,8 @@ import jighisol from "@/public/jighisol.png";
 import jighisol1 from "@/public/jighisol1.png";
 import medpack from "@/public/medpack.png";
 import a1spaces from "@/public/a1spaces.png";
+import foodbazaar from "@/public/foodbazaar.jpg";
+import tadoprojects from "@/public/tadoprojects.png";
 
 import rmtdevImg from "@/public/rmtdev.png";
 import wordanalyticsImg from "@/public/wordanalytics.png";
@@ -45,9 +47,9 @@ export const experiencesData = [
   {
     title: "Frontend Developer at Miraki Technologies",
     location: "Hyderabad, India",
-    description:"Developed user-centric interfaces and optimized web application",
-    icon: React.createElement(CgWorkAlt),
-    date: "2020 - 2023",
+    description:"Focused on developing user-centric interfaces and optimizing web applications for better performance and usability.",
+    icon: React.createElement(FaReact),
+    date: "2020 - Present",
   },
   {
     title: "Bachelor of Engineering (Computer Science),",
@@ -81,11 +83,25 @@ export const projectsData = [
     imageUrl: a1spaces,
   },
   {
+    title: "Food Bazaar",
+    description: "Built a Swiggy clone as a personal project, utilizing Swiggy's live APIs. Developed with React, Redux, and Tailwind CSS.",
+    tags: ["React", "Redux", "Tailwind CSS", "Swiggy API"],
+    imageUrl: foodbazaar,
+  },
+  
+  {
     title: "Jighisol",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+      "Developed a responsive website for Jighisol, a solar product company, focused on product visibility and streamlining sales.",
     tags: ["Javacript", "HTML", "CSS", "WordPress", "Bootstrap"],
     imageUrl: jighisol,
+  },
+  {
+    title: "TaDo Projects",
+    description:
+      "Built a responsive website for TaDo Projects, a real estate company, aimed at enhancing property listings and streamlining the sales workflow",
+    tags: ["Javacript", "HTML", "CSS", "WordPress", "Bootstrap"],
+    imageUrl: tadoprojects,
   },
   
   {
