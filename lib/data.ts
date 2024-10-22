@@ -64,13 +64,13 @@ export const projectsData = [
   {
     title: "IGBC",
     description:
-      "Designed and developed the IGBC website in close collaboration with the client. Focused on creating a user-friendly interface and seamless navigation to enhance user experience and engagement.",
+      "Designed and developed the IGBC website in collaboration with the client, focusing on a user-friendly interface and seamless navigation to enhance engagement",
       tags: ["JavaScript", "HTML", "CSS", "Bootsrap"],
     imageUrl: igbc,
   },
   {
     title: "CII Energy",
-    description:"Led the design and development of the CII Energy website, working with the project manager to create a cohesive online presence that reflects CII Energy's goals",
+    description:"Designed and developed the UI of the CII Energy website, collaborating with the project manager to create an effective online presence reflecting CII's goals.",
       tags: ["JavaScript", "HTML", "CSS", "Bootsrap"],
     imageUrl: ciienergy,
   },
@@ -78,7 +78,7 @@ export const projectsData = [
   {
     title: "a1Spaces",
     description:
-      "Developed a dynamic website for A1 Places, a real estate company, using React. Focused on delivering an intuitive user experience and responsive design to effectively showcase property listings.",
+      "Developed a dynamic website for A1Spaces, a real estate company, using React. An intuitive user experience and responsive design to showcase property listings.",
       tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
     imageUrl: a1spaces,
   },
