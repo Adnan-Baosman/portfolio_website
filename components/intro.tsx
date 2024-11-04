@@ -58,16 +58,29 @@ export default function Intro() {
       </div>
 
       <motion.h1
+  className="mb-10 mt-4 px-4 text-2xl font-medium !leading-[1.5] sm:text-4xl"
+  initial={{ opacity: 0, y: 100 }}
+  animate={{ opacity: 1, y: 0 }}
+>
+  <span className="font-bold">Hey there! I'm Adnan,</span> I'm a{" "}
+  <span className="font-bold">frontend developer</span> with{" "}
+  <span className="font-bold">3.4 years</span> of industry experience, including expertise in building engaging {" "}
+  <span className="italic">sites and apps</span> using{" "}
+  <span className="underline">React and Next.js</span>.
+</motion.h1>
+
+{/* 
+      <motion.h1
         className="mb-10 mt-4 px-4 text-2xl font-medium !leading-[1.5] sm:text-4xl"
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Hello, I'm Adnan.</span> I'm a{" "}
-        <span className="font-bold">frontend developer</span> with{" "}
-        <span className="font-bold">3.4 years</span> of experience. I enjoy
+        <span className="font-bold">Hello, I'm Adnan.</span> a{" "}
+        <span className="font-bold">frontend developer passionate about crafting responsive and engaging web experiences</span> with{" "}
+        <span className="font-bold">3.4 years</span> of corporate experience. I enjoy
         building <span className="italic">sites and apps</span>. My focus is{" "}
         <span className="underline">React and Next.js</span>.
-      </motion.h1>
+      </motion.h1> */}
 
       <motion.div
         className="flex flex-col sm:flex-row items-center justify-center gap-2 px-4 text-lg font-medium"
