@@ -31,13 +31,13 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://instagram.fblr1-7.fna.fbcdn.net/v/t51.29350-15/256899502_267651761985055_5726194460789229995_n.webp?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fblr1-7.fna.fbcdn.net&_nc_cat=107&_nc_ohc=ER3vsK6e4-oQ7kNvgEdWVwt&_nc_gid=c083584b14b14accbdf71db9ab6cfdfc&edm=APoiHPcBAAAA&ccb=7-5&ig_cache_key=MjcwNjc1MDM0MTQzMDQ3NTMzMA%3D%3D.3-ccb7-5&oh=00_AYBZ1a3qp_7aDvq1UiQ9ddq4yZ2tfV5FWXKixk4R18VHEQ&oe=6718A300&_nc_sid=22de04"
-              alt="Adnan img"
+            src="/adnan_pic.jpeg"
+              alt="Adnan image"
               width="192"
               height="192"
-              quality="95"
+              quality="100"
               priority={true}
-              className="h-24 w-24 rounded-full object-cover border-[0.35rem] border-white shadow-xl"
+              className="h-36 w-36 rounded-full object-cover border-[0.35rem] border-white shadow-xl"
             />
           </motion.div>
 
