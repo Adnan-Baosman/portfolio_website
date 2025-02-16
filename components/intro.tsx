@@ -112,7 +112,7 @@ export default function Intro() {
 
         <a
           className="bg-white p-4 text-gray-700 hover:text-gray-950 flex items-center gap-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
-          href="https://linkedin.com/in/adnan-ali-ba-osman"
+          href="https://www.linkedin.com/in/adnan-ali-ba-osman/"
           target="_blank"
         >
           <BsLinkedin />
